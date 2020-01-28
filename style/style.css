@@ -1,0 +1,36 @@
+body {
+    font-size: 14px;
+    color: navy;
+    background-color: orchid;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.shitbox{
+    background-color: burlywood; 
+    margin: 20px;
+    padding: 40px;
+}
+
+.crapbox{
+    background-color: bisque;
+    margin: 20px;
+    padding: 40px;
+}
+
+.marginbox{
+    background-color: rgb(248, 237, 171);
+    margin: 20px;
+    padding: 40px;
+}
+
+.paddingbox{
+    background-color: rgb(250, 243, 203);
+    margin: 20px;
+    padding: 40px;   
+}
+
+.contentbox{
+    background-color: white;
+    margin: 20px;
+    padding: 40px;    
+}
